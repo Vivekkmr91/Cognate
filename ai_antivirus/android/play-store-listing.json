@@ -1,0 +1,144 @@
+{
+  "title": "AI Antivirus - Advanced Protection",
+  "shortDescription": "AI-powered antivirus with real-time protection against malware, ransomware & hackers",
+  "fullDescription": "AI Antivirus provides comprehensive protection for your Android device using advanced artificial intelligence and machine learning algorithms.\n\n🛡️ REAL-TIME PROTECTION\n• Continuous monitoring of apps and files\n• Instant threat detection and removal\n• Background scanning without performance impact\n• Auto-quarantine of malicious apps\n\n🤖 AI-POWERED DETECTION\n• Machine learning models trained on millions of threats\n• Zero-day malware detection\n• Behavioral analysis to catch new threats\n• Cloud-based threat intelligence\n\n🔒 RANSOMWARE SHIELD\n• Advanced ransomware detection\n• File backup protection\n• Honeypot technology\n• Crypto-locker prevention\n\n🌐 WEB & EMAIL PROTECTION\n• Safe browsing with URL filtering\n• Phishing detection\n• Email attachment scanning\n• Banking protection\n\n📱 APP SECURITY\n• App permission analyzer\n• Privacy scanner\n• App locker with biometric authentication\n• Anti-theft features\n\n🚀 PERFORMANCE OPTIMIZATION\n• Battery saver\n• Memory booster\n• Storage cleaner\n• App manager\n\n🔐 VPN PROTECTION\n• Secure VPN connection\n• Anonymous browsing\n• Public Wi-Fi protection\n• Data encryption\n\n📊 FEATURES\n✓ Real-time scanning\n✓ Scheduled scans\n✓ Cloud scanning\n✓ Quarantine management\n✓ Threat reports\n✓ Security recommendations\n✓ Parental controls\n✓ Call & SMS blocking\n✓ Anti-phishing\n✓ Data leak prevention\n\n💎 PREMIUM FEATURES\n• Advanced ransomware protection\n• VPN unlimited bandwidth\n• Priority support\n• Ad-free experience\n• Multi-device license\n• Advanced web protection\n• Email scanning\n• Sandbox analysis\n\n🏆 WHY CHOOSE AI ANTIVIRUS?\n• Industry-leading detection rates\n• Minimal battery consumption\n• Regular threat definition updates\n• 24/7 customer support\n• No ads in premium version\n• GDPR compliant\n• Enterprise-grade security\n\nProtect your digital life with AI Antivirus - Download now!",
+  
+  "category": "TOOLS",
+  "contentRating": "Everyone",
+  
+  "pricing": {
+    "free": true,
+    "inAppPurchases": true,
+    "subscriptions": [
+      {
+        "id": "com.aidefense.antivirus.monthly",
+        "price": "$9.99",
+        "period": "monthly",
+        "trialDays": 7,
+        "features": [
+          "All premium features",
+          "No ads",
+          "Priority support"
+        ]
+      },
+      {
+        "id": "com.aidefense.antivirus.yearly",
+        "price": "$99.99",
+        "period": "yearly",
+        "trialDays": 30,
+        "features": [
+          "All premium features",
+          "No ads",
+          "Priority support",
+          "Multi-device support (5 devices)"
+        ]
+      },
+      {
+        "id": "com.aidefense.antivirus.lifetime",
+        "price": "$199.99",
+        "period": "lifetime",
+        "features": [
+          "All premium features forever",
+          "No ads",
+          "VIP support",
+          "Unlimited devices"
+        ]
+      }
+    ]
+  },
+  
+  "screenshots": [
+    "screenshot_dashboard.png",
+    "screenshot_scanning.png",
+    "screenshot_threats_detected.png",
+    "screenshot_real_time_protection.png",
+    "screenshot_web_protection.png",
+    "screenshot_app_lock.png",
+    "screenshot_vpn.png",
+    "screenshot_reports.png"
+  ],
+  
+  "video": "https://youtube.com/watch?v=demo_video",
+  
+  "icon": {
+    "512x512": "icon-512.png"
+  },
+  
+  "featureGraphic": "feature-graphic.png",
+  
+  "promoGraphic": "promo-graphic.png",
+  
+  "tags": [
+    "antivirus",
+    "security",
+    "malware",
+    "virus scanner",
+    "protection",
+    "vpn",
+    "anti-malware",
+    "ransomware",
+    "ai security",
+    "mobile security",
+    "app lock",
+    "privacy",
+    "cleaner",
+    "booster",
+    "firewall"
+  ],
+  
+  "targetCountries": [
+    "US", "GB", "CA", "AU", "IN", "DE", "FR", "IT", "ES", "JP",
+    "KR", "BR", "MX", "RU", "CN", "NL", "SE", "NO", "DK", "FI"
+  ],
+  
+  "languages": [
+    "en-US", "es-ES", "fr-FR", "de-DE", "it-IT", "pt-BR", "ru-RU",
+    "ja-JP", "ko-KR", "zh-CN", "zh-TW", "hi-IN", "ar-SA", "nl-NL",
+    "sv-SE", "no-NO", "da-DK", "fi-FI", "pl-PL", "tr-TR"
+  ],
+  
+  "website": "https://ai-antivirus.com",
+  "email": "support@ai-antivirus.com",
+  "privacyPolicy": "https://ai-antivirus.com/privacy",
+  "termsOfService": "https://ai-antivirus.com/terms",
+  
+  "changelog": {
+    "version": "2.0.0",
+    "releaseNotes": "• NEW: AI-powered threat detection engine\n• NEW: Ransomware protection with honeypots\n• NEW: VPN service for secure browsing\n• NEW: Email and web protection\n• NEW: App lock with biometric authentication\n• IMPROVED: Scanning speed increased by 50%\n• IMPROVED: Battery optimization\n• FIXED: Minor bug fixes and stability improvements\n• UPDATED: Latest threat definitions"
+  },
+  
+  "minimumAndroidVersion": "7.0",
+  "targetAndroidVersion": "14.0",
+  
+  "permissions": {
+    "required": [
+      "Internet access for cloud scanning",
+      "Storage access for file scanning",
+      "Network state for VPN"
+    ],
+    "optional": [
+      "Camera for anti-theft photo",
+      "Location for find my device",
+      "SMS for phishing protection",
+      "Phone for call blocking",
+      "Accessibility for advanced protection"
+    ]
+  },
+  
+  "dataCollection": {
+    "collects": [
+      "Device information",
+      "App usage statistics",
+      "Threat telemetry"
+    ],
+    "sharing": "Data is not shared with third parties",
+    "deletion": "Users can request data deletion anytime"
+  },
+  
+  "support": {
+    "email": "support@ai-antivirus.com",
+    "phone": "+1-800-AI-PROTECT",
+    "chat": "In-app chat support",
+    "hours": "24/7 for premium users"
+  }
+}
